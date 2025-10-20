@@ -20,10 +20,6 @@
 * `GradeBook` 클래스: 여러 학생 객체를 관리하고 전체 반 평균을 계산
 * `main()` 함수: 예시 학생 데이터를 생성하고 결과 출력
 
-[GitHub Repository Link](https://github.com/choi1127/gradebook.git)
-(혹은 실제 Git Hub 주소를 넣어주세요.)
-
----
 
 ## 실행 방법
 
