@@ -1,0 +1,16 @@
+# Python bytecode and compiled files
+*.pyc
+__pycache__/
+
+# The 'io' directory content that might be temporary or generated
+PROJECT_ROOT_PKG/io/
+
+# Operating System temporary files
+.DS_Store
+
+# Virtual environment files (if you use one at the project root)
+venv/
+env/
+
+# Data files that should not be tracked (if it contains user data or logs)
+students.csv
